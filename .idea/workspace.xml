@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7dde372-406f-4be5-901b-ddf1cfe825c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hHLtwtI3kSF37QNQVVKIJIvAK5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG./Users/maersk-mtc36/Documents/Assignment/Testng.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="uiAssignment" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="uiAssignment" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfirmationPageTest.confirmFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uiAssignment.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uiAssignment.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.uiAssignment.testCases.ConfirmationPageTest" />
+      <option name="METHOD_NAME" value="confirmFlightTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPageTest.addNewCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.uiAssignment.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.uiAssignment.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.uiAssignment.testCases.LandingPageTest" />
+      <option name="METHOD_NAME" value="addNewCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/maersk-mtc36/Documents/Assignment/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="uiAssignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/maersk-mtc36/Documents/Assignment/Testng.xml" />
+        <item itemvalue="TestNG.LandingPageTest.addNewCustomer" />
+        <item itemvalue="TestNG.ConfirmationPageTest.confirmFlightTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7dde372-406f-4be5-901b-ddf1cfe825c4" name="Default Changelist" comment="" />
+      <created>1599663295428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599663295428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1599720482312">
+      <screen x="0" y="23" width="1344" height="765" />
+    </state>
+    <state x="485" y="112" key="#com.intellij.ide.util.MemberChooser/0.23.1344.764@0.23.1344.764" timestamp="1599719307451" />
+    <state x="485" y="112" key="#com.intellij.ide.util.MemberChooser/0.23.1344.765@0.23.1344.765" timestamp="1599720482312" />
+    <state x="442" y="305" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599728994667">
+      <screen x="0" y="23" width="1344" height="765" />
+    </state>
+    <state x="442" y="305" width="460" height="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1344.765@0.23.1344.765" timestamp="1599728994667" />
+    <state width="1302" height="192" key="GridCell.Tab.0.bottom" timestamp="1599730660896">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state width="1302" height="193" key="GridCell.Tab.0.bottom/0.23.1344.762@0.23.1344.762" timestamp="1599666050406" />
+    <state width="1302" height="192" key="GridCell.Tab.0.bottom/0.23.1344.765@0.23.1344.765" timestamp="1599729903398" />
+    <state width="1302" height="192" key="GridCell.Tab.0.bottom/0.23.1344.766@0.23.1344.766" timestamp="1599730373855" />
+    <state width="1302" height="192" key="GridCell.Tab.0.bottom/0.23.1344.769@0.23.1344.769" timestamp="1599730660896" />
+    <state width="1302" height="192" key="GridCell.Tab.0.center" timestamp="1599730660895">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state width="1302" height="193" key="GridCell.Tab.0.center/0.23.1344.762@0.23.1344.762" timestamp="1599666050405" />
+    <state width="1302" height="192" key="GridCell.Tab.0.center/0.23.1344.765@0.23.1344.765" timestamp="1599729903397" />
+    <state width="1302" height="192" key="GridCell.Tab.0.center/0.23.1344.766@0.23.1344.766" timestamp="1599730373855" />
+    <state width="1302" height="192" key="GridCell.Tab.0.center/0.23.1344.769@0.23.1344.769" timestamp="1599730660895" />
+    <state width="1302" height="192" key="GridCell.Tab.0.left" timestamp="1599730660895">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state width="1302" height="193" key="GridCell.Tab.0.left/0.23.1344.762@0.23.1344.762" timestamp="1599666050405" />
+    <state width="1302" height="192" key="GridCell.Tab.0.left/0.23.1344.765@0.23.1344.765" timestamp="1599729903397" />
+    <state width="1302" height="192" key="GridCell.Tab.0.left/0.23.1344.766@0.23.1344.766" timestamp="1599730373855" />
+    <state width="1302" height="192" key="GridCell.Tab.0.left/0.23.1344.769@0.23.1344.769" timestamp="1599730660895" />
+    <state width="1302" height="192" key="GridCell.Tab.0.right" timestamp="1599730660896">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state width="1302" height="193" key="GridCell.Tab.0.right/0.23.1344.762@0.23.1344.762" timestamp="1599666050406" />
+    <state width="1302" height="192" key="GridCell.Tab.0.right/0.23.1344.765@0.23.1344.765" timestamp="1599729903397" />
+    <state width="1302" height="192" key="GridCell.Tab.0.right/0.23.1344.766@0.23.1344.766" timestamp="1599730373855" />
+    <state width="1302" height="192" key="GridCell.Tab.0.right/0.23.1344.769@0.23.1344.769" timestamp="1599730660896" />
+    <state x="40" y="67" key="new project wizard" timestamp="1599730657308">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state x="40" y="67" key="new project wizard/0.23.1344.769@0.23.1344.769" timestamp="1599730657308" />
+  </component>
+</project>
